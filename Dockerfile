@@ -1,6 +1,6 @@
 # ncview in a container
 #
-# docker run  \
+# docker run  --rm \
 #        -v /tmp/.X11-unix:/tmp/.X11-unix \
 #        -e DISPLAY=unix$DISPLAY \
 #        -v $HOME/ncview/.ncviewrc:/home/ncview/.ncviewrc \
