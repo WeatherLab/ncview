@@ -9,7 +9,7 @@
 #
 
 FROM debian:stretch
-LABEL maintainer "Xin Zhang <Xin.l.Zhang@noaa.gov>"
+LABEL maintainer "Xin Zhang <xin.zhang@langrunweather.com>"
 
 RUN apt-get update && apt-get install -y \
     curl autoconf automake gcc g++ make libnetcdf-dev libhdf5-dev libexpat1-dev libudunits2-dev  xserver-xorg-dev libxaw7-dev \
