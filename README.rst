@@ -2,6 +2,7 @@
 ncview 使用说明
 ##############
 
+*由北京朗润知天科技有限公司支持*
 
 安装Docker
 ----------
@@ -17,5 +18,6 @@ ncview 使用说明
           -e DISPLAY=unix$DISPLAY \
           -v $HOME/ncview/.ncviewrc:/home/ncview/.ncviewrc \
           -v `pwd`:/home/ncview \
-        	 weatherlab/ncview file_to_be_display.nc
+          weatherlab/ncview \
+          file_to_be_display.nc
            
