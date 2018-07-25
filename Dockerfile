@@ -5,7 +5,7 @@
 #        -e DISPLAY=unix$DISPLAY \
 #        -v $HOME/ncview/.ncviewrc:/home/ncview/.ncviewrc \
 #        -v `pwd`:/home/ncview \
-# 	 weatherlab/ncview file_to_be_display.nc
+# 	 weatherhub/ncview file_to_be_display.nc
 #
 
 FROM debian:stretch
