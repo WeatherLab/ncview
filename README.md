@@ -2,6 +2,8 @@
 
 *由北京朗润知天科技有限公司支持*
 
+[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=weatherhub&repository=ncview)](https://hub.docker.com/r/weatherhub/ncview/builds/)
+
 运行ncview
 ----------
 
@@ -14,5 +16,3 @@
           weatherhub/ncview \
           file_to_be_display.nc
 ```
-
-[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=weatherhub&repository=ncview)](https://hub.docker.com/r/weatherhub/ncview/builds/)
