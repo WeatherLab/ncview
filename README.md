@@ -15,4 +15,4 @@
           file_to_be_display.nc
 ```
 
-[[](https://dockerbuildbadges.quelltext.eu/status.svg?organization=weatherhub&repository=ncview)](https://hub.docker.com/r/weatherhub/ncview/builds/)
+[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=weatherhub&repository=ncview)](https://hub.docker.com/r/weatherhub/ncview/builds/)
