@@ -14,7 +14,7 @@ ncview 使用说明
           -e DISPLAY=unix$DISPLAY \
           -v $HOME/ncview/.ncviewrc:/home/ncview/.ncviewrc \
           -v `pwd`:/home/ncview \
-          weatherlab/ncview \
+          weatherhub/ncview \
           file_to_be_display.nc
            
 .. image:: https://g.codefresh.io/api/badges/build?repoOwner=weatherlab&repoName=ncview&branch=master&pipelineName=ncview&accountName=weatherhub&type=cf-1
